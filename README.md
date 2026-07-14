@@ -10,6 +10,8 @@
 学生只有读对单词，才能吃下卡片——但谁也不知道，哪一张藏着女巫的毒药！
 
 `英语认读` · `分组 PK` · `课堂大屏` · `单文件离线运行`
+<img width="1470" height="956" alt="截屏2026-07-13 15 00 32" src="https://github.com/user-attachments/assets/85da4cdf-fe96-4390-9dac-b36a12445190" />
+
 
 </div>
 
