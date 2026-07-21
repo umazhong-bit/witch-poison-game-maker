@@ -3,7 +3,7 @@ name: witch-poison-game-maker
 description: 将教师提供的英语词汇生成“女巫的毒药”双组课堂认读游戏 HTML。适用于老师要在教室大屏开展词汇认读、复习、分组 PK，或明确提到女巫、毒药、读对才能吃等玩法时；本 Skill 负责清理词汇、应用固定教学规则并输出可离线运行的单文件网页。
 skillhub_author: "uma"
 skillhub_version: "1.0.2"
-skillhub_uploaded_at: "2026-07-21T03:07:07.514Z"
+skillhub_uploaded_at: "2026-07-21T03:18:35.333Z"
 ---
 
 # 女巫的毒药游戏生成器
