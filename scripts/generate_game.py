@@ -8,7 +8,7 @@ from pathlib import Path
 
 SKILL_DIR = Path(__file__).resolve().parents[1]
 TEMPLATE = SKILL_DIR / "assets" / "witch-poison-template.html"
-RULE_VERSION = "1.3"
+RULE_VERSION = "1.3.1"
 
 
 def parse_words(raw: str) -> list[str]:
