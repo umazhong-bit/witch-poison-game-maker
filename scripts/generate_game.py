@@ -8,7 +8,7 @@ from pathlib import Path
 
 SKILL_DIR = Path(__file__).resolve().parents[1]
 TEMPLATE = SKILL_DIR / "assets" / "witch-poison-template.html"
-RULE_VERSION = "1.2"
+RULE_VERSION = "1.3"
 
 
 def parse_words(raw: str) -> list[str]:
@@ -66,6 +66,7 @@ def main() -> None:
         "board_size": 25,
         "teams": 2,
         "poisons_per_team": 3,
+        "poison_overlap_allowed": True,
     }
     manifest_path = output.with_suffix(".manifest.json")
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
